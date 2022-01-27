@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-#**JavaScript the Beginning**
+## **JavaScript the Beginning**
 
 So far, Javascript has been quite interesting to say the least. This language is simple and easy to learn, regardless of one’s background in Computer Science. However, having a background in Computer Science would certainly help in the learning experience. In comparison, Javascript has the same declarations as in Java and C with slight differences with “let”, “var” and the lack of variable types. Due to the lack of variable types, the language implies the variable type based on its value, whether it be an integer or a string. Along with this, function parameters only require a name of the variable to be passed in. Although I am directly learning this language now, I have seen other similar languages to it through open source games such as Table Fighter Online that used the platform BYOND and its own language. 
 
