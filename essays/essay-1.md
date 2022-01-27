@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: false
 title: "Javascript: The Beginning"
 date: 2022-01-19
 labels:
