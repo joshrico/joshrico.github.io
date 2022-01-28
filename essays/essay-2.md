@@ -1,8 +1,9 @@
 ---
 layout: essay
 type: essay
-title: JavaScript: The Beginning
-date: 2022-01-19
+draft: false
+title: "Asking Smart Questions -- Smarter"
+date: 2022-01-27
 labels:
   - Software Engineering
   - Learning
