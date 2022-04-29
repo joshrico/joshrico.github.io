@@ -1,0 +1,17 @@
+---
+layout: essay
+type: essay
+draft: false
+title: "Design Patterns: It All Boils Down to Science"
+date: 2022-04-28
+labels:
+  - Software Engineering
+  - Learning
+---
+Science is the "knowledge, or a system of knowledge, covering general truths or the operation of general laws especially as obtained and tested through scientific method" (Merriam-Webster). Scientists over the course of history have made world-changing discoveries through mass trial and error, attempting to answer questions concerning the world surrounding us. Questions such as "How will this organism be affected by a certain change to its environment?" or "What type of reaction will occur between these two chemicals?". With the amount of science that had taken place over the years to the present, scientists had developed a method in which anyone can utilize for their own experiments known as the "Scientific Method". Although it is not a fool-proof, end-all solution, it is method that is fundamentally capable of solving every problem in life when modified to function as such. In the context of "Software Engineering", the Scientific Method is comparable to that of Design Patterns. 
+
+Design Patterns, as Christopher Alexander had put it in 1977, "describe a problem that occurs over and over ... then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice". Despite not having generally the same recurring problems, the Scientific Method provides a template for solution, much like a Design Pattern. The over-arching question asked by both a Design Pattern and the Scientific Method is "how will I get from point A to point B?" The Scientific Method lays out a template that guides scientists towards their point B. In comparison, a Design Pattern provides standard terminology, but are used in specific situations. A closer comparison to a Design Pattern would be the application of the Scientific Method in certain fields of science.
+
+A Design Pattern can be related closer to the application of the Scientific Method in certain fields of science. For instance, the Singleton Design Pattern, which "provides a 'global variable' in an Object-Oriented language that does not support global variables"(Johnson). This design pattern is used specifically when only one instance should be allowed to exist within the application. An implementation of this within my own code is through Collections. There are multiple Collections contained within the "Walking with Pele" application that must only exist once such as the Spots collection. Another Design Pattern implemented into aforementioned code is the Publish-Subscribe Design Pattern, which is a "messaging pattern where publishers categorize messages into classes without knowing of the subscribers"(Johnson). This was implemented through the use of certain Pages and Components that are subscribed to certain Collections. While they are subscribed, certain functions will manipulate the documents in the Collections in which they will call the publish() function. 
+
+Design Patterns can be closely related to the application of the Scientific Method in specific scientific fields. There are Design Patterns for specific situations, such as the Singleton Instance for when a global variable must be created within a language that does not support it, much like how different fields of science apply the Scientific Method to fit their own parameters. 
