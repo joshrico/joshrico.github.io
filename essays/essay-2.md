@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-draft: false
+draft: true
 title: "Asking Smart Questions -- Smarter"
 date: 2022-01-27
 labels:
