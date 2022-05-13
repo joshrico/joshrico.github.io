@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 draft: false
-title: ""
+title: "Much More Than It Seems"
 date: 2022-05-11
 labels:
   - Software Engineering
