@@ -16,7 +16,7 @@ labels:
 - Web Application
 summary: Walking with Pele is a web application that provides UH Manoa students information about certain locations on the island of Oahu. Students are able to find new experiences while also sharing their own for others to see.
 ---
-<img class="ui right floated rounded image" width="960" height="540" src="../images/walking-with-pele.png" alt="landing-page">
+![](../images/add-comment.png)
 
 [Walking with Pele](https://walking-with-pele.github.io) is a web application that served as the final project for Software Engineering (ICS 314). It was designed and created by my group consisting of me, Kai He, Zhixin Li, Hyuma Tsuchiya, and Don Maddock. The mission for Walking with Pele was to provide University of Hawaii students with a way to find new experiences and locations while also connecting with other students. This project utilized everything we had learned in Software Engineering throughout the Spring 2022 semester. 
 
