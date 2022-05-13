@@ -9,6 +9,6 @@ labels:
 - Java
 - GUI
 - Game
-summary: A Java implementation of the casino game *Craps*.
+summary: A Java implementation of the game Inverse Tic-Tac-Toe.
 ---
 ![](../images/InverseTicTacToe.png)

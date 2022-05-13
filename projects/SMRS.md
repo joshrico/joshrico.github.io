@@ -7,5 +7,7 @@ permalink: projects/SMRS
 date: 2017-05-10
 labels:
 - Robotics
+- Public Speaking
+summary: During my high school career, I was a member of the Underwater Robotics Club, which provided important career skills.
 ---
 ![](../images/SMRS-team-photo.JPG)
