@@ -1,13 +1,14 @@
 ---
 layout: project
 type: project
-image: images/InverseTicTacToe.png
+image: images/tic-tac-toe.png
 title: "Inverse Tic-Tac-Toe"
-permalink: projects/InverseTicTacToe
+permalink: projects/InverseTickTacToe
 date: 2020-12-09
 labels:
 - Java
 - GUI
 - Game
+summary: A Java implementation of the casino game *Craps*.
 ---
 ![](../images/InverseTicTacToe.png)

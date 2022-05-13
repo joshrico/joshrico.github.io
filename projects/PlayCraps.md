@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/play-craps.png
+image: images/craps-vegas.png
 title: "Play Craps"
 permalink: projects/PlayCraps
 date: 2018-09-21
