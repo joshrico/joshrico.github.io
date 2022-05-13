@@ -11,7 +11,7 @@ labels:
 - Game
 summary: A Java implementation of the game Inverse Tic-Tac-Toe.
 ---
-![](../images/InverseTicTacToe.png)
+<img class="ui medium right floated rounded image" src="../images/InverseTicTacToe.png" alt="inverse-tic-tac-toe">
 
 This project was developed during ICS 111 utilizing Java and its libraries. For this particular project, we created a Graphical User Interface (GUI) to create a functional game with simple visuals.
 

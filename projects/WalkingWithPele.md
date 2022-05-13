@@ -16,7 +16,7 @@ labels:
 - Web Application
 summary: Walking with Pele is a web application that provides UH Manoa students information about certain locations on the island of Oahu. Students are able to find new experiences while also sharing their own for others to see.
 ---
-<img class="ui medium right floated rounded image" src="../images/walking-with-pele.png" alt="home">
+<img class="ui medium right floated rounded image" src="../images/walking-with-pele.png" alt="landing-page">
 
 [Walking with Pele](https://walking-with-pele.github.io) is a web application that served as the final project for Software Engineering (ICS 314). It was designed and created by my group consisting of me, Kai He, Zhixin Li, Hyuma Tsuchiya, and Don Maddock. The mission for Walking with Pele was to provide University of Hawaii students with a way to find new experiences and locations while also connecting with other students. This project utilized everything we had learned in Software Engineering throughout the Spring 2022 semester. 
 
@@ -24,8 +24,8 @@ For this project, my group used [GitHub](https://github.com/walking-with-pele) t
 
 Another notable contribution I had made to this web application is the implementation of Comments. With previous knowledge, I had implemented a "Comments" section for each "Spot" page where it would display a user's comment. I also implemented a way for users to delete their own comment on any page.
 
-<img class="ui medium right floated rounded image" src="../images/spot-comment.png" alt="home">
-<img class="ui medium right floated rounded image" src="../images/spot-page.png" alt="home">
+<img class="ui medium right floated rounded image" src="../images/spot-comment.png" alt="spot-page-1">
+<img class="ui medium right floated rounded image" src="../images/spot-page.png" alt="spot-page-2">
 
 Personally, I had found this project to be quite the learning experience. This project not only showed me the importance of collaboration, but also the importance of communication. Although more people working on the same problem is theoretically easier, it is still difficult without consistent and concise communication. Issue Driven Project Management had helped a lot with communication amongst ourselves as it served as the way marker for the direction of our project. There were certainly many ideas that we had hoped to implement such as a "Live Chat" between two users that did not occur on Spot pages and an information window that would open when you clicked on a marker on the map. This web application has promise to it, and I would love to work on it again in the future.
 

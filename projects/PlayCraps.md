@@ -10,7 +10,7 @@ labels:
 - Game
 summary: A Java implementation of the casino game Craps.
 ---
-![](../images/play-craps.png)
+<img class="ui medium right floated rounded image" src="../images/play-craps.png" alt="play-craps">
 
 This project was my introduction to programming and its applications. The idea of the project was to apply the knowledge of Java I had been taught into an implementation of the game Craps. 
 
