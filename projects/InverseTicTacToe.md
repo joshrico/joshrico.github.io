@@ -10,4 +10,4 @@ labels:
 - GUI
 - Game
 ---
-![](../images/InverseTicTacToe.PNG)
+![](../images/InverseTicTacToe.png)
