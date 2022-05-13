@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/InverseTicTacToe.png
-title: "Play Craps"
+title: "Inverse Tic-Tac-Toe"
 permalink: projects/InverseTicTacToe
 date: 2020-12-09
 labels:
@@ -10,3 +10,4 @@ labels:
 - GUI
 - Game
 ---
+![](../images/InverseTicTacToe.PNG)
